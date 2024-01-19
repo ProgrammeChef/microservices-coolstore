@@ -214,66 +214,6 @@ Then, you can find the exception happend in code via Kibana dashboard with setti
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :p
 
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key))
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/thangchung.png?s=150">
-        <br>
-        <a href="https://github.com/thangchung">Thang Chung</a>
-        <p>
-          <a href="https://github.com/vietnam-devs/coolstore-microservices/commits?author=thangchung" title="Developer">💻</a>
-          <a href="#question" title="Answering Questions">💬</a>
-          <a href="#docs" title="Documentation">📖</a>
-          <a href="#review" title="Reviewed Pull Requests">👀</a>
-          <a href="#infra" title="Infrastructure">🚇</a>
-          <a href="#maintance" title="Maintenance">🚧</a>
-        </p>
-      </td>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/tungphuong.png?s=150">
-        <br>
-        <a href="https://github.com/tungphuong">Phuong Le</a>
-        <p>
-          <a href="https://github.com/vietnam-devs/coolstore-microservices/commits?author=tungphuong" title="Developer">💻</a>
-          <a href="#package" title="Packaging">📦</a>
-          <a href="#infra" title="Infrastructure">🚇</a>
-        </p>
-      </td>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/trumhemcut.png?s=150">
-        <br>
-        <a href="https://github.com/trumhemcut">Phi Huynh</a>
-        <p>
-          <a href="#idea" title="Ideas & Planning">🤔</a>
-          <a href="https://github.com/vietnam-devs/coolstore-microservices/commits?author=trumhemcut" title="Infrastructure">🚇</a>
-        </p>
-      </td>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/thinhnotes.png?s=150">
-        <br>
-        <a href="https://github.com/thinhnotes">Thinh Nguyen</a>
-        <p>
-          <a href="https://github.com/vietnam-devs/coolstore-microservices/commits?author=thinhnotes" title="Developer">💻</a>
-          <a href="#maintance" title="Maintenance">🚧</a>
-        </p>
-      </td>
-      <td align="center" valign="top">
-        <img width="150" height="150" src="https://github.com/stuartleeks.png?s=150">
-        <br>
-        <a href="https://github.com/stuartleeks">Stuart Leeks</a>
-        <p>
-          <a href="#docs" title="Documentation">📖</a>
-        </p>
-      </td>
-     </tr>
-  </tbody>
-</table>
-
 ## Licence
 
 Code released under [the MIT license](https://github.com/vietnam-devs/coolstore-microservices/blob/master/LICENSE).
