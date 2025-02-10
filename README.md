@@ -4,6 +4,16 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/vietnam-devs/coolstore-microservices)
 [![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/vietnam-devs/coolstore-microservices/blob/master/LICENSE)
 
+## Open in an Online IDE of your choice
+Skip cloning locally, and start developing in the cloud
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/vietnam-devs/coolstore-microservices)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/vietnam-devs/coolstore-microservices)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vietnam-devs/coolstore-microservices)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/vietnam-devs/coolstore-microservices)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/vietnam-devs/coolstore-microservices)
+
+
 CoolStore Website is a containerised microservices application consisting of services based on .NET Core running on Dapr. It demonstrates how to wire up small microservices into a larger application using microservice architectural principals.
 
 > This repository based on some of the old libraries. So be careful if you use it in your production environment!!!
